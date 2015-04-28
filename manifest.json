@@ -4,7 +4,7 @@
 "description": "No Description Availiable. Sorry.",
 "version": "0.0.1",
 "icons": {"16": "icon16.png"}
-"app" {
+app {
   "background": {
     "scripts":["background.js"]
   }
