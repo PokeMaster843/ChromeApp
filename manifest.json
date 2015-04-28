@@ -3,8 +3,8 @@
 "name": "Chrome App",
 "description": "No Description Availiable. Sorry.",
 "version": "0.0.1",
-"icons": {"16": "icon16.png"}
-app {
+"icons": {"16": "icon16.png"},
+"app": {
   "background": {
     "scripts":["background.js"]
   }
